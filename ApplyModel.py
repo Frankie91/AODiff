@@ -1023,8 +1023,6 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 encoder = encoder.to(device)
 
-criterion = nn.L1Loss()
-
 unet = UNet()
 unet = unet.to(device)
 
