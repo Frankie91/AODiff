@@ -22,10 +22,7 @@ from tiler import Tiler, Merger
 warnings.filterwarnings("ignore")
 
 # Remember to get the data from our drive - everything that is in the 
-# AODiff folder. Link:
-
-# https://drive.google.com/drive/folders/1OBMkfICtytVmQAoQ_rPc9ryFH0zq3WH9
-# you'll need to adjust the filepaths to the ones your local machine uses
+# AODiff folder.
 
 # Some Utility Functions =====================================================
 
